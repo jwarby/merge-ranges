@@ -4,7 +4,7 @@
 ## Install
 
 ```bash
-npm install --save jwarby/merge-ranges
+npm install --save merge-ranges
 ```
 
 ## Usage
