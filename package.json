@@ -19,5 +19,12 @@
     "interval",
     "merge",
     "intersect"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwarby/merge-ranges"
+  },
+  "bugs": {
+    "url": "https://github.com/jwarby/merge-ranges/issues"
+  }
 }
